@@ -1,4 +1,8 @@
-# Environtment Setting
+# Algebra & Trigonometry
+- Course Homepage 🏡: https://github.com/jong8jong8/algebra
+
+
+## 0. Environtment Setting
 
 ## Jupyter Lab Installation
 - Install python at [python.org](https://python.org)
@@ -16,7 +20,7 @@
 ## Interactive Matplotlib 
 
 
-# Algebra & Trigonometry
+
 
 
 ## 1. Prerequisites
