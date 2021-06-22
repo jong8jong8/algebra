@@ -392,6 +392,7 @@ plt.gca().set_aspect('equal', adjustable='box')
 
 
 ### 2.3 Models and Applications
+> Homework
 
 ### 2.4 Complex Numbers
 
