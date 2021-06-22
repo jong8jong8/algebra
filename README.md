@@ -304,7 +304,7 @@ d
 - The midpoint fomula: given endpoints $(x_1, y_1)$ and $(x_2, y_2)$, the midpoint is 
 $$ \left( \dfrac{x_1 + x_2}{2}, \dfrac{y_1 + y_2}{2} \right) $$
 
-- 🎯 `matplotlit` practice
+- 🎯 `matplotlib` practice
     - See **Matplotlib Tutorial**: 8. Matplotlib – Object-oriented Interface
 
 ```
