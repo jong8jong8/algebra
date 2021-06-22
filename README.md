@@ -341,6 +341,54 @@ x = symbols('x')
 solveset( Eq( 4*(x -3) + 12, 15 - 5*(x + 6) ), x )
 ```
 
+- The rational equation: the variable appears in the denominators
+
+- 🎯 `sympy` practice
+    - See **Sympy Tutorial**: 4. SymPy ― Numbers
+
+```
+# Example 5
+from sympy import symbols, Rational, Eq, solveset
+x = symbols('x')
+solveset( Eq( 1/x, Rational(1,10) - 3/(4*x)), x ) 
+```
+
+- The slope of a line, $m$, for given two points, $(x_1, y_1)$ and $(x_2, y_2)$
+$$ m = \dfrac{y_2 - y_1}{x_2 - x_1} $$
+
+- The point-slope formula: the line of slope $m$ that passes $(x_1, y_1)$
+$$ y − y_1 = m(x − x_1)  $$
+
+- The vertical line
+$$ x = c $$
+
+- The horizontal line
+$$ y = c $$
+
+- The parallel lines: the same slope and different $y$-intercepts
+
+- The Lines that are perpendicular intersect to form a $90^\circ$-angle
+$$ m_1 \cdot m_2 = -1 $$
+where $m_1$ and $m_2$ are the slopes.
+
+- 🎯 `matplotlib` practice
+    - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
+
+```
+# Figure 5
+%matplotlib widget
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.arange(-7, 7, 0.01)
+y1 = 3*x - 1
+y2 = (-1/3)*x - 2
+
+plt.style.use('seaborn')
+fig, ax = plt.subplots()
+ax.plot(x, y1, x, y2)
+plt.gca().set_aspect('equal', adjustable='box')
+```
 
 
 ### 2.3 Models and Applications
