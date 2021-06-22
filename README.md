@@ -325,12 +325,23 @@ ax.title("Figure 16")
 
 
 
-
-
-
-
-
 ### 2.2 Linear Equations in One Variable
+
+- The linear equation in one variable
+$$ ax + b = 0 $$
+where $a, b \in \mathbb{R}$ and $a \neq 0$.
+
+- 🎯 `sympy` practice
+    - See **Sympy Tutorial**: 6. SymPy ― Substitution
+    - See **Sympy Tutorial**: 18. SymPy ― Solver
+
+```
+from sympy import symbols, Eq, solveset
+x = symbols('x')
+solveset( Eq( 4*(x -3) + 12, 15 - 5*(x + 6) ), x )
+```
+
+
 
 ### 2.3 Models and Applications
 
