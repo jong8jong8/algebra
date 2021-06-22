@@ -3,7 +3,7 @@
 
 ## 0. Environtment Setting
 
-## 0.1 Jupyter Lab Installation
+### 0.1 Jupyter Lab Installation
 - Install python at [python.org](https://python.org)
 - Install following python modules from the terminal
     - `pip install sympy`
@@ -16,7 +16,7 @@
 - Run `jupyter-lab` from the terminal
     - `jupyter-lab`
 
-## 0.2 Interactive Matplotlib 
+### 0.2 Interactive Matplotlib 
 - Test the following code from `jupyter-lab` in one cell.
 
 ```
@@ -43,22 +43,182 @@ plt.savefig("sales.png")
 
 ### 1.1 Real Numbers: Algebra Essentials
 
+- The natural number set: $\mathbb{N} = \{ 1, 2, 3,  \dots \}$
+
+- The whole number set: $\mathbb{W} = \{ 0, 1, 2, 3, \dots \} = \{0\} \cup \mathbb{N}$
+
+- The integer set: $\mathbb{Z} = \{ \dots, -3, 2, 1, 0, 1, 2, 3,  \dots\}$
+
+- The rational number set: $\mathbb{Q} = \{ \frac{p}{q} \;\vert\; p, q \in \mathbb{Z}, q \neq 0 \}$
+    - A raltional number can be either a termnating decimal or a repeating decimal.
+
+- The irrational number set: $\mathbb{Q}^{\prime} = \{ h \;\vert\; h \not\in \mathbb{Q} \}$
+    - A irrational number is neither a terminating nor a repeating decimal.
+
+- The real number set: $\mathbb{R} = \mathbb{Q} \cup \mathbb{Q}^{\prime}$
+
+- The real number line: by Cantor-Dedekind axiom, any real number corresponds to a unique position on the number line. 
+
+- The exponential notation $a^n$ where $a \in \mathbb{R}$ (the base) and $n \in \mathbb{N}$ (the exponent):
+$$ a^n = \underbrace{a \cdot a \cdot \cdots \cdot a}_{n \text{ times}} $$
+
+- The commutative property of addition
+$$ a + b = b + a $$
+
+- The commutative property of multiplication
+$$ a \cdot b = b \cdot a $$
+
+- The associative property of addition
+$$ a + (b + c) = (a + b) + c $$
+
+- The associative property of multiplication
+$$ a (b c) = a (b c) $$
+
+- The distributive property
+$$ a \cdot (b + c) = a \cdot b + a \cdot c $$
+
+- the order of operations
+
+- The identity property of addition
+$$ a + 0 = a $$
+
+- The identity property of multiplication
+$$ a \cdot 1 = a $$
+
+- The inverse property of addition
+$$ a + (-a) = 0 $$
+    - The subtraction as the addition of the inverse: $a - b = a + (-b)$.
+
+- The inverse property of multiplication where $a \neq 0$
+$$ a \cdot \dfrac{1}{a} = 1 $$
+    - The division as the multiplication of the inverse: $ a \div b = a \cdot \dfrac{1}{b}$ for $b \neq 0$. 
+
+- A constant, a variable, an algebraic expresstion 
+
+- An equation, a formula
+
+- 🎯 `sympy` practice
+    - Use `sympy`'s `simplify()`.
+    - See **Sympy Tutorial**: 12. SymPy ― Simplification 
+
 
 
 ### 1.2 Exponents and Scientific Notation
 
+- The product rule of exponents where $a \in \mathbb{R}$, $m, n \in \mathbb{N}$
+$$ a^{m} \cdot a^{n} = a^{m + n} $$
+
+- The quotient rule of exponent where $a \in \mathbb{R}$ and $a \neq 0$, $m, n \in \mathbb{N}$ and $m > n$
+$$ \dfrac{a^m}{a^n} = a^{m - n} $$
+
+- The power rule of exponents where $a \in \mathbb{R}$  
+$$ (a^m)^n  =a^{m \cdot n} $$
+
+- The zero exponent rule of exponents where $a \in \mathbb{R}$ and $a \neq 0$
+$$ a^0 = 1 $$
+
+- The negative rule of exponents where $a \in \mathbb{R}$ and $a \neq 0$, $n \in \mathbb{N}$
+$$ a^{-n} = \dfrac{1}{a^n} $$
+
+- The power of a product rule of exponents where $a, b \in \mathbb{R}$, $n \in \mathbb{Z}$
+$$ (ab)^n = a^n b^n $$
+
+- The power of a quotient rule of exponents where $a, b \in \mathbb{R}$ and $b \neq 0$, $n \in \mathbb{Z}$
+$$ \left( \dfrac{a}{b} \right)^n = \dfrac{a^n}{b^n}  $$
+
+- `sympy` practice
+    - Use `sympy`'s `powsimp()`, and so on.
+    - See **Sympy Tutorial**: 12. SymPy ― Simplification 
+
+
 
 ### 1.3 Radicals and Rational Expressions
 
+- The principal square root of $a$ where $a \in \mathbb{R}_{+}$ (the nonnegative real number set)
+$$ \sqrt{a} $$
+
+- The product rule for simplifying square roots where $a, b \in \mathbb{R}_{+}$
+$$ \sqrt{ab} = \sqrt{a} \cdot \sqrt{b} $$
+
+- The quotient rule for simplifying square roots where $a, b \in \mathbb{R}_{+}$ and $b \neq 0$
+$$ \sqrt{\dfrac{a}{b}} = \dfrac{\sqrt{a}}{\sqrt{b}} $$
+
+- It's good to know that for $a \in \mathbb{R}$
+$$ \sqrt{a^2} = \vert a \vert = \begin{cases} a, \;a \geq 0 \\ -a, \;a < 0 \end{cases} $$
+
+- The principal $n$th root of $a$ where $n \in \mathbb{N}$ and $n \geq 2$
+$$ \sqrt[n]{a} $$
+and $a \in \mathbb{R}_{+}$ when $n$ is even, $a \in \mathbb{R}$ when $n$ is odd.  
+
+- The rational exponent where $a \in \mathbb{R}_{+}$, $m, n \in \mathbb{N}$ and $n \geq 2$
+$$ a^{\frac{m}{n}} = \left( \sqrt[n]{a} \right)^m = \sqrt[n]{a^m} $$
+
+- 🎯 `sympy` practice
+    - Use `sympy`'s `Rational()`, and so on.
+    - See **Sympy Tutorial**: 4. SymPy ― Numbers
+
+
+
+
 ### 1.4 Polynomials
+
+- Polynomials
+$$ a_n x^n + a_{n - 1} x^{n - 1} + \cdots + a_1 x + a_0 $$
+
+- Perfect square trinomials
+$$ (x + a)^2 = (x + a) (x + a) = x^2 + 2x + a^2 $$
+
+
+- Difference of squares
+$$ (a + b)(a - b) = a^2 - b^2 $$
+
+- `sympy` practice
+    - Use `sympy`'s `factor()`, `expand()`.
+    - See **Sympy Tutorial**: 12. SymPy ― Simplification 
+
+
 
 ### 1.5 Factoring Polynomials
 
+- The greatest common factor (GCF): the largest polynomial that divides evenly into the 
+polynomials.
+
+- Factoring a trinomial with leading coefficient 1
+$$ x^2 + bx + c = (x + p)(x + q) $$
+where $pq = c$ and $p + q = b$ for $a, b \in \mathbb{Z}$
+
+- Factor by grouping
+$$ a x^2 + bx + c = (a^{\prime} x + b^{\prime})(c^{\prime} x + d^{\prime}) $$
+where $a = a^{\prime} c^{\prime}$, $b = a^{\prime}d^{\prime} + b^{\prime}c^{\prime}$, $c = b^{\prime}d^{\prime}$.
+
+- Perfect square trinomials
+$$ a^2 + 2ab + b^2 = (a + b)^2 $$
+
+- Differences of squares
+$$ a^2 - b^2 = (a + b)(a - b) $$
+
+- Sum of cubes
+$$ a^3 + b^3 = (a + b)(a^2 - ab + b^2) $$
+
+- Difference of cubes
+$$ a^3 - b^3 = (a - b)(a^2 + ab + b^2) $$
+
+- 🎯 `sympy` practice
+    - Use `sympy`'s `factor()`, `expand()`.
+    - See **Sympy Tutorial**: 12. SymPy ― Simplification 
+
+
+
+
 ### 1.6 Rational Expressions
 
-### Chapter 1 Review 
-### Chapter 1 Review Excercises
-### Chapter 1 Practical Test
+- The least common denominator (LCD): the smallest multiple that the denominators have in common
+
+- 🎯 `sympy` practice
+    - Use `sympy`'s `cancel()`.
+    - See **Sympy Tutorial**: 12. SymPy ― Simplification 
+
+
 
 
 
@@ -66,6 +226,28 @@ plt.savefig("sales.png")
 
 
 ### 2.1 The Rectangular Coordinate Systems and Graphs
+
+- The Cartesian (or rectangular) coordinate system 
+
+- 🎯 `matplotlib` practice
+    - See **Matplotlib Tutorial**: 22. Matplotlib – Scatter Plot
+
+```
+%matplotlib widget
+import matplotlib.pyplot as plt
+
+x = [-2, 3, 0]
+y = [4, 3, -3]
+
+plt.style.use('seaborn')
+fig, ax = plt.subplots()
+ax.scatter(x, y, s=50)
+plt.xlim([-6, 6])
+plt.ylim([-6, 6])
+plt.title("Example 1. Figure 5")
+```
+
+
 
 ### 2.2 Linear Equations in One Variable
 
