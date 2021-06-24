@@ -43,7 +43,7 @@ plt.savefig("sales.png")
 
 ### 1.1 Real Numbers: Algebra Essentials
 
-- The natural number set: $\mathbb{N} = \{ 1, 2, 3,  \dots \}$
+- The natural number set: $\mathbb{N} = \left\{ 1, 2, 3,  \dots \right\}$
 
 - The whole number set: $\mathbb{W} = \{ 0, 1, 2, 3, \dots \} = \{0\} \cup \mathbb{N}$
 
@@ -404,6 +404,10 @@ plt.gca().set_aspect('equal', adjustable='box')
 
 ### 2.4 Complex Numbers
 
+- The imaginary unit number
+$$ i = \sqrt{-1} $$
+such that 
+$$ i^2 = \left(  \right) $$
 
 
 
