@@ -365,6 +365,9 @@ $$ x = c $$
 - The horizontal line
 $$ y = c $$
 
+- The line in the standard form
+$$ ax + by = c $$
+
 - The parallel lines: the same slope and different $y$-intercepts
 
 - The Lines that are perpendicular intersect to form a $90^\circ$-angle
@@ -391,10 +394,23 @@ plt.gca().set_aspect('equal', adjustable='box')
 ```
 
 
+
 ### 2.3 Models and Applications
 > Homework
 
+
+
+
+
 ### 2.4 Complex Numbers
+
+
+
+
+
+
+
+
 
 ### 2.5 Quadratic Equations
 
