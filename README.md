@@ -104,7 +104,7 @@ $$ a \cdot \dfrac{1}{a} = 1 $$
 
 - An equation, a formula
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - Use `sympy`'s `simplify()`.
     - See **Sympy Tutorial**: 12. SymPy ― Simplification 
 
@@ -160,7 +160,7 @@ and $a \in \mathbb{R}_{+}$ when $n$ is even, $a \in \mathbb{R}$ when $n$ is odd.
 - The rational exponent where $a \in \mathbb{R}_{+}$, $m, n \in \mathbb{N}$ and $n \geq 2$
 $$ a^{\frac{m}{n}} = \left( \sqrt[n]{a} \right)^m = \sqrt[n]{a^m} $$
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - Use `sympy`'s `Rational()`, and so on.
     - See **Sympy Tutorial**: 4. SymPy ― Numbers
 
@@ -179,7 +179,7 @@ $$ (x + a)^2 = (x + a) (x + a) = x^2 + 2x + a^2 $$
 - Difference of squares
 $$ (a + b)(a - b) = a^2 - b^2 $$
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - Use `sympy`'s `factor()`, `expand()`.
     - See **Sympy Tutorial**: 12. SymPy ― Simplification 
 
@@ -210,7 +210,7 @@ $$ a^3 + b^3 = (a + b)(a^2 - ab + b^2) $$
 - Difference of cubes
 $$ a^3 - b^3 = (a - b)(a^2 + ab + b^2) $$
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - Use `sympy`'s `factor()`, `expand()`.
     - See **Sympy Tutorial**: 12. SymPy ― Simplification 
 
@@ -221,7 +221,7 @@ $$ a^3 - b^3 = (a - b)(a^2 + ab + b^2) $$
 
 - The least common denominator (LCD): the smallest multiple that the denominators have in common
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - Use `sympy`'s `cancel()`.
     - See **Sympy Tutorial**: 12. SymPy ― Simplification 
 
@@ -240,7 +240,7 @@ $$ a^3 - b^3 = (a - b)(a^2 + ab + b^2) $$
     - A point in the plane corresponds to an ordered pair $(x, y)$
     - An equation like $y = 2x - 1$ means the collection of all $(x, y)$ that satisfies the equation.
 
-- 🎯 `matplotlib` practice
+- 🎯 `jupyter-lab` practice
     - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
 
 ```
@@ -263,7 +263,7 @@ plt.title("Example 2. Figure 6")
 - The $x$-intercept: set $y = 0$ and solve the equation with respect to $x$
 - The $y$-intercept: set $y = 0$ and solve the equation with respect to $x$
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 6. SymPy ― Substitution
     - See **Sympy Tutorial**: 18. SymPy ― Solver
 
@@ -291,7 +291,7 @@ y_intercept
 - The distance formula: given endpoints $(x_1, y_1)$ and $(x_2, y_2)$, the distance between two points
 $$ d = \sqrt{ (x_2 - x_1)^2 + (y_2 - y_1)^2 } $$
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 3. SymPy ― Symbolic Computation
 
 ```
@@ -311,7 +311,7 @@ d
 - The midpoint fomula: given endpoints $(x_1, y_1)$ and $(x_2, y_2)$, the midpoint is 
 $$ \left( \dfrac{x_1 + x_2}{2}, \dfrac{y_1 + y_2}{2} \right) $$
 
-- 🎯 `matplotlib` practice
+- 🎯 `jupyter-lab` practice
     - See **Matplotlib Tutorial**: 8. Matplotlib – Object-oriented Interface
 
 ```
@@ -338,7 +338,7 @@ ax.title("Figure 16")
 $$ ax + b = 0 $$
 where $a, b \in \mathbb{R}$ and $a \neq 0$.
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 6. SymPy ― Substitution
     - See **Sympy Tutorial**: 18. SymPy ― Solver
 
@@ -350,7 +350,7 @@ solveset( Eq( 4*(x -3) + 12, 15 - 5*(x + 6) ), x )
 
 - The rational equation: the variable appears in the denominators
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 4. SymPy ― Numbers
 
 ```
@@ -381,7 +381,7 @@ $$ ax + by = c $$
 $$ m_1 \cdot m_2 = -1 $$
 where $m_1$ and $m_2$ are the slopes.
 
-- 🎯 `matplotlib` practice
+- 🎯 `jupyter-lab` practice
     - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
 
 ```
@@ -430,7 +430,7 @@ where $a,b \in \mathbb{R}, i = \sqrt{-1}$.
 
 - The real number set $\mathbb{R}$ is a subset of the complex number set $\mathbb{C}$, that is $\mathbb{R} \subset \mathbb{C}$.
 
-- 🎯 `sympy` practice
+- 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 4. SymPy ― Numbers
 
 ```
@@ -452,7 +452,7 @@ im(z)
 
 - The complex number $a + bi$ is represented as a point $(a, b)$ in the complex plane just like $(x, y)$ in the $xy$-plane.
 
-- 🎯 `matplotlib` practice
+- 🎯 `jupyter-lab` practice
     - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
 
 ```
