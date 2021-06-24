@@ -554,12 +554,53 @@ equation
 solveset(equation)
 ```
 
+- 🎯 `jupyter-lab` practice
+    - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
+    
+```
+%matplotlib widget
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.arange(-6, 6, 0.01)
+y = x**2 + x - 6
+
+plt.style.use('seaborn')
+fig, ax = plt.subplots()
+ax.plot(x, y)
+plt.title("Figure 2")
+plt.gca().set_aspect('equal', adjustable='box')
+plt.xlim(-6, 6)
+plt.ylim(-7, 7)
+```
+
+- The square root property
+$$ \text{if } x^2 = k, \text{ then } x = \pm\sqrt{k} $$
+where $k \in \mathbb{R}$ and $k \neq 0$.
+
+- Completing the square: adjust the quadratic equation to make a perfect square trinomial on one side of the equal sign
+$$ (ax + b)^2 = k $$
 
 
+- The quadratic formula: for $ax^2 + bx + c = 0$, the solutions are
+$$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+where $a, b, c \in mathbb{R}$ and $a \neq 0$.
 
+- 🎯 `jupyter-lab` practice
+    - See **Sympy Tutorial**: 18. SymPy ― Solvers
 
+```
+from sympy import symbols, Eq, solveset
 
+x = symbols('x')
+expr = x**2 + x - 6
+expr
 
+eqn = Eq(x**2 + 5*x + 1, 0)
+eqn
+
+solveset(eqn)
+```
 
 
 
