@@ -43,17 +43,24 @@ plt.savefig("sales.png")
 
 ### 1.1 Real Numbers: Algebra Essentials
 
-- The natural number set: $$\mathbb{N} = \{ 1, 2, 3,  \dots \}$$
+- The natural number set
+$$\mathbb{N} = \lbrace 1, 2, 3,  \dots \rbrace$$
 
-- The whole number set: $\mathbb{W} = \{ 0, 1, 2, 3, \dots \} = \{0\} \cup \mathbb{N}$
+- The whole number set
+$$\mathbb{W} = \lbrace 0, 1, 2, 3, \dots \rbrace = \lbrace 0 \rbrace \cup \mathbb{N}$$
 
-- The integer set: $\mathbb{Z} = \{ \dots, -3, 2, 1, 0, 1, 2, 3,  \dots\}$
+- The integer set
+$$\mathbb{Z} = \lbrace \dots, -3, 2, 1, 0, 1, 2, 3,  \dots \rbrace$$
 
-- The rational number set: $\mathbb{Q} = \{ \frac{p}{q} \;\vert\; p, q \in \mathbb{Z}, q \neq 0 \}$
-    - A raltional number can be either a termnating decimal or a repeating decimal.
+- The rational number set
+$$\mathbb{Q} = \big\lbrace \frac{p}{q} \;\vert\; p, q \in \mathbb{Z}, q \neq 0 \big\rbrace$$
 
-- The irrational number set: $\mathbb{Q}^{\prime} = \{ h \;\vert\; h \not\in \mathbb{Q} \}$
-    - A irrational number is neither a terminating nor a repeating decimal.
+- A raltional number can be either a termnating decimal or a repeating decimal.
+
+- The irrational number set
+$$\mathbb{Q}^{\prime} = \lbrace h \;\vert\; h \not\in \mathbb{Q} \rbrace$$
+
+- A irrational number is neither a terminating nor a repeating decimal.
 
 - The real number set: $\mathbb{R} = \mathbb{Q} \cup \mathbb{Q}^{\prime}$
 
