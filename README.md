@@ -614,7 +614,8 @@ x2
 
 - The determinant of $ax^2 + bx  +c = 0$
 $$ D = b^2 - 4 ac $$
-
+such that
+$$ x = \dfrac{-b \pm \sqrt{D}}{2a} $$
 
 
 
