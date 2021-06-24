@@ -432,6 +432,7 @@ where $a,b \in \mathbb{R}, i = \sqrt{-1}$.
 
 - 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 4. SymPy ― Numbers
+    - See **Sympy Tutorial**: 16. SymPy ― Function class
 
 ```
 from sympy import sqrt, re, im
@@ -489,6 +490,9 @@ $$(a + bi)(a - bi) = a^2 + b^2 $$
 $$ \dfrac{c + di}{a + bi} = \dfrac{(ac + bd) + (ad - bc)i}{a^2 + b^2} $$
 where $a, b \neq 0$.
 
+- 🎯 `jupyter-lab` practice
+    - See **Sympy Tutorial**: 16. SymPy ― Function class
+    - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
 
 
 
