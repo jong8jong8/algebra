@@ -66,7 +66,7 @@ $$\mathbb{Q}^{\prime} = \lbrace h \;\vert\; h \not\in \mathbb{Q} \rbrace$$
 
 - The real number line: by Cantor-Dedekind axiom, any real number corresponds to a unique position on the number line. 
 
-- The exponential notation $a^n$ where $a \in \mathbb{R}$ (the base) and $n \in \mathbb{N}$ (the exponent):
+- The exponential notation $a^n$ where $a \in \mathbb{R}$ (the base) and $n \in \mathbb{N}$ (the exponent)
 $$ a^n = \underbrace{a \cdot a \cdot \cdots \cdot a}_{n \text{ times}} $$
 
 - The commutative property of addition
@@ -414,10 +414,80 @@ plt.gca().set_aspect('equal', adjustable='box')
 - The imaginary unit number
 $$ i = \sqrt{-1} $$
 such that 
-$$ i^2 = \left(  \right) $$
+$$ i^2 = \left( \sqrt{-1} \right)^2 = -1 $$
 
+- The pure imaginary number
+$$b i$$
+where $b \in \mathbb{R}$, such as $3i, -i, \sqrt{2}i$ and so on.
 
+- The complex number
+$$ a + bi $$
+where $a \in \mathbb{R}$ is the real part and $b \in \mathbb{R}$ is the imaginary part.
 
+- The complex number set
+$$ \mathbb{C} = \lbrace z \;\vert\; z = a + bi \rbrace $$
+where $a,b \in \mathbb{R}, i = \sqrt{-1}$.
+
+- The real number set $\mathbb{R}$ is a subset of the complex number set $\mathbb{C}$, that is $\mathbb{R} \subset \mathbb{C}$.
+
+- 🎯 `sympy` practice
+    - See **Sympy Tutorial**: 4. SymPy ― Numbers
+
+```
+from sympy import sqrt, re, im
+
+i = sqrt(-1)
+i
+
+i**2
+
+a, b = 4, 5
+z = a + b*i
+z
+
+re(z)
+
+im(z)
+```
+
+- The complex number $a + bi$ is represented as a point $(a, b)$ in the complex plane just like $(x, y)$ in the $xy$-plane.
+
+- 🎯 `matplotlib` practice
+    - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
+
+```
+import matplotlib.pyplot as plt
+import numpy as np
+
+# numpy uses j as the imaginary unit
+data = np.array([1+2j, 2-4j, -2j, -4, 4+1j, 3+8j, -2-6j, 5])
+
+x = data.real
+y = data.imag
+  
+plt.plot(x, y, 'g*')
+plt.ylabel('Imaginary')
+plt.xlabel('Real')
+```
+
+- The addition of $a + bi$ and $c + di$
+$$ (a + bi) + (c + di) = (a + c) + (b + d)i $$
+
+- The subtraction of $a + bi$ and $c + di$
+$$ (a + bi) - (c + di) = (a - c) + (b - d)i $$
+
+- The product of $a + bi$ and $c + di$
+$$(a + bi)(c + di) = (ac − bd) + (ad + bc)i^2$$
+
+- The complex conjugate of $(a + bi)$
+$$ a - bi $$
+
+- the product of $(a + bi)$ and $(a - bi)$
+$$(a + bi)(a - bi) = a^2 + b^2 $$
+
+- the division of $(c + di)$ by $(a + bi)$
+$$ \dfrac{c + di}{a + bi} = \dfrac{(ac + bd) + (ad - bc)i}{a^2 + b^2} $$
+where $a, b \neq 0$.
 
 
 
@@ -430,9 +500,6 @@ $$ i^2 = \left(  \right) $$
 ### 2.7 Linear Inequalities and Absolute Value Inequaltities
 
 
-### Chapter 2 Review 
-### Chapter 2 Review Excercises
-### Chapter 2 Practical Test
 
 
 
