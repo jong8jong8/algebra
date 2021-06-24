@@ -172,7 +172,7 @@ $$ (x + a)^2 = (x + a) (x + a) = x^2 + 2x + a^2 $$
 - Difference of squares
 $$ (a + b)(a - b) = a^2 - b^2 $$
 
-- `sympy` practice
+- 🎯 `sympy` practice
     - Use `sympy`'s `factor()`, `expand()`.
     - See **Sympy Tutorial**: 12. SymPy ― Simplification 
 
