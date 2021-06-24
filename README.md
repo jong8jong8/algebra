@@ -43,7 +43,7 @@ plt.savefig("sales.png")
 
 ### 1.1 Real Numbers: Algebra Essentials
 
-- The natural number set: $\mathbb{N} = \left\{ 1, 2, 3,  \dots \right\}$
+- The natural number set: $\mathbb{N} = \big\{ 1, 2, 3,  \dots \big\}$
 
 - The whole number set: $\mathbb{W} = \{ 0, 1, 2, 3, \dots \} = \{0\} \cup \mathbb{N}$
 
