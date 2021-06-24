@@ -599,7 +599,17 @@ expr
 eqn = Eq(x**2 + 5*x + 1, 0)
 eqn
 
-solveset(eqn)
+solutions = solveset(eqn)
+solutions
+
+ordered_solutions = list(solutions)
+ordered_solutions
+
+x1 = ordered_solutions[0]
+x1
+
+x2 = ordered_solutions[1]
+x2
 ```
 
 
