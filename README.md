@@ -584,7 +584,7 @@ $$ (ax + b)^2 = k $$
 
 - The quadratic formula: for $ax^2 + bx + c = 0$, the solutions are
 $$ x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
-where $a, b, c \in mathbb{R}$ and $a \neq 0$.
+where $a, b, c \in \mathbb{R}$ and $a \neq 0$.
 
 - 🎯 `jupyter-lab` practice
     - See **Sympy Tutorial**: 18. SymPy ― Solvers
@@ -612,9 +612,22 @@ x2 = ordered_solutions[1]
 x2
 ```
 
+- The determinant of $ax^2 + bx  +c = 0$
+$$ D = b^2 - 4 ac $$
+
+
 
 
 ### 2.6 Other Types of Equations
+
+
+
+
+
+
+
+
+
 
 ### 2.7 Linear Inequalities and Absolute Value Inequaltities
 
