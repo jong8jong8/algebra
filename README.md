@@ -253,8 +253,8 @@ y = [-7, -5, -3, -1, 1, 3, 5, 7]
 plt.style.use('seaborn')
 fig, ax = plt.subplots()
 ax.plot(x, y)
-plt.axhline(0, color='gray')
-plt.axvline(0, color='gray')
+ax.axhline(0, color='gray')
+ax.axvline(0, color='gray')
 plt.xlim([-5, 5])
 plt.ylim([-7, 7])
 plt.title("Example 2. Figure 6")
@@ -326,7 +326,7 @@ fig, ax = plt.subplots()
 ax.plot([x1, x2], [y1, y2])
 ax.scatter([x1, x2], [y1, y2])
 ax.scatter(xm, ym)
-ax.title("Figure 16")
+plt.title("Figure 16")
 ```
 
 
@@ -491,13 +491,77 @@ $$ \dfrac{c + di}{a + bi} = \dfrac{(ac + bd) + (ad - bc)i}{a^2 + b^2} $$
 where $a, b \neq 0$.
 
 - 🎯 `jupyter-lab` practice
-    - See **Sympy Tutorial**: 16. SymPy ― Function class
-    - See **Matplotlib Tutorial**: 6. Matplotlib – Simple Plot
+    - See **Sympy Tutorial**: 12. SymPy ― Simplification
 
+```
+from sympy import sqrt, simplify
+
+a, b, c, d = 1, 2, 3, 4
+i = sqrt(-1)
+
+z1 = a + b*i
+z1
+
+z2 = c + d*i
+z2
+
+z1 + z2
+
+z1 - z2
+
+simplify(z1 * z2)
+
+simplify(z2 / z1)
+
+conjugate(z1)
+
+conjugate(z2)
+
+i**3
+
+i**4
+
+i**5
+```
 
 
 
 ### 2.5 Quadratic Equations
+
+- The zero-product property
+$$ \text{if } a \cdot b = 0, \text{ then } a = 0 \text{ or } b = 0 $$
+where $a, b \in \mathbb{R}$ or they can be mathematical expressions.
+
+- The quadratic equation
+$$ ax^2 + bx + c = 0 $$
+where $a, b, c \in \mathbb{R}$ and $a \neq 0$.
+
+- 🎯 `jupyter-lab` practice
+    - See **Sympy Tutorial**: 18. SymPy ― Solvers
+
+```
+from sympy import symbols, factor, Eq, solveset
+
+x = symbols('x')
+expr = x**2 + x - 6
+expr
+
+factor(expr)
+
+equation = Eq(expr, 0)
+equation
+
+solveset(equation)
+```
+
+
+
+
+
+
+
+
+
 
 ### 2.6 Other Types of Equations
 
