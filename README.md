@@ -107,4 +107,4 @@
 ### 13.4 Series and Their Notations
 ### 13.5 Counting Principles
 ### 13.6 Binomial Theorem
-## 13.7 Probability
+### 13.7 Probability
