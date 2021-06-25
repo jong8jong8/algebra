@@ -1,8 +1,8 @@
 # Algebra & Trigonometry
 
 ## 0. Environtment Setting
-### 0.1 [Jupyter Lab Installation](./ch00-01.md)
-### 0.2 [Interactive Matplotlib](./ch00-02.md)
+### 0.1 [Jupyter Lab Installation](./ch00/ch00-01.md)
+### 0.2 [Interactive Matplotlib](./ch00/ch00-02.md)
 
 ## 1. Prerequisites
 ### 1.1 [Real Numbers: Algebra Essentials](./ch01-01.md)
