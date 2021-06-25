@@ -1,9 +1,9 @@
 # Algebra & Trigonometry
 
 
-## 0. [Environtment Setting](./ch00.md)
+## 0. Environtment Setting
 
-### 0.1 Jupyter Lab Installation
+### 0.1 [Jupyter Lab Installation](ch00-01.md)
 - Install python at [python.org](https://python.org)
 - Install following python modules from the terminal
     - `pip install sympy`
