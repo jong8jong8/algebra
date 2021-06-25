@@ -62,12 +62,13 @@ $$\mathbb{Q}^{\prime} = \lbrace h \;\vert\; h \not\in \mathbb{Q} \rbrace$$
 
 - A irrational number is neither a terminating nor a repeating decimal.
 
-- The real number set: $\mathbb{R} = \mathbb{Q} \cup \mathbb{Q}^{\prime}$
+- The real number set
+$$\mathbb{R} = \mathbb{Q} \cup \mathbb{Q}^{\prime}$$
 
 - The real number line: by Cantor-Dedekind axiom, any real number corresponds to a unique position on the number line. 
 
 - The exponential notation $a^n$ where $a \in \mathbb{R}$ (the base) and $n \in \mathbb{N}$ (the exponent)
-$$ a^n = \underbrace{a \cdot a \cdot \cdots \cdot a}_{n \text{ times}} $$
+$$ a^n = \underbrace{a \cdot a \dots a}_{n \text{ times}} $$
 
 - The commutative property of addition
 $$ a + b = b + a $$
