@@ -1,7 +1,7 @@
 # Algebra & Trigonometry
 
 
-## 0. Environtment Setting
+## 0. [Environtment Setting](./ch00.md)
 
 ### 0.1 Jupyter Lab Installation
 - Install python at [python.org](https://python.org)
@@ -620,9 +620,11 @@ $$ x = \dfrac{-b \pm \sqrt{D}}{2a} $$
 
 
 
+
 ### 2.6 Other Types of Equations
 
-
+- The rational exponent
+$$ a^{\frac{m}{n}} =   $$
 
 
 
