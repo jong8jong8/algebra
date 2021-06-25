@@ -5,21 +5,21 @@
 ### 0.2 [Interactive Matplotlib](./ch00/ch00-02.md)
 
 ## 1. Prerequisites
-### 1.1 [Real Numbers: Algebra Essentials](./ch01-01.md)
-### 1.2 [Exponents and Scientific Notation](./ch01-02.md)
-### 1.3 [Radicals and Rational Expressions](./ch01-03.md)
-### 1.4 [Polynomials](./ch01-04.md)
-### 1.5 [Factoring Polynomials](./ch01-05.md)
-### 1.6 [Rational Expressions](./ch01-06.md)
+### 1.1 [Real Numbers: Algebra Essentials](./ch01/ch01-01.md)
+### 1.2 [Exponents and Scientific Notation](./ch01/ch01-02.md)
+### 1.3 [Radicals and Rational Expressions](./ch01/ch01-03.md)
+### 1.4 [Polynomials](./ch01/ch01-04.md)
+### 1.5 [Factoring Polynomials](./ch01/ch01-05.md)
+### 1.6 [Rational Expressions](./ch01/ch01-06.md)
 
 ## 2. Equations and Inequalities
-### 2.1 [The Rectangular Coordinate Systems and Graphs](./ch02-01.md)
-### 2.2 [Linear Equations in One Variable](./ch02-02.md)
-### 2.3 [Models and Applications](./ch02-03.md)
-### 2.4 [Complex Numbers](./ch02-04.md)
-### 2.5 [Quadratic Equations](./ch02-05.md)
-### 2.6 [Other Types of Equations](./ch02-06.md)
-### 2.7 [Linear Inequalities and Absolute Value Inequaltities](./ch02-07.md)
+### 2.1 [The Rectangular Coordinate Systems and Graphs](./ch02/ch02-01.md)
+### 2.2 [Linear Equations in One Variable](./ch02/ch02-02.md)
+### 2.3 [Models and Applications](./ch02/ch02-03.md)
+### 2.4 [Complex Numbers](./ch02/ch02-04.md)
+### 2.5 [Quadratic Equations](./ch02/ch02-05.md)
+### 2.6 [Other Types of Equations](./ch02/ch02-06.md)
+### 2.7 [Linear Inequalities and Absolute Value Inequaltities](./ch02/ch02-07.md)
 
 ## 3. Functions
 ### 3.1 Functions and Function Notations
