@@ -22,7 +22,7 @@
 ### 2.7 [Linear Inequalities and Absolute Value Inequaltities](./ch02/ch02-07.md)
 
 ## 3. Functions
-### 3.1 Functions and Function Notations
+### 3.1 [Functions and Function Notations](./ch03/ch03-01.md)
 ### 3.2 Domain and Range
 ### 3.3 Rate of Change and Behavior of Graphs
 ### 3.4 Composition of Functions
