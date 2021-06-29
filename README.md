@@ -24,7 +24,7 @@
 ## 3. Functions
 ### 3.1 [Functions and Function Notations](./ch03/ch03-01.md)
 ### 3.2 [Domain and Range](./ch03/ch03-02.md)
-### 3.3 Rate of Change and Behavior of Graphs
+### 3.3 [Rate of Change and Behavior of Graphs](./ch03/ch03-03.md)
 ### 3.4 Composition of Functions
 ### 3.5 Transformation of Functions
 ### 3.6 Absolute Value Functions
