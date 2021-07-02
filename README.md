@@ -1,6 +1,7 @@
 # Algebra & Trigonometry
 
 ## 0. Environtment Setting
+- Install [GitHub Math Display](https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda/related?hl=en) from chrome web store.
 ### 0.1 [Jupyter Lab Installation](./ch00/ch00-01.md)
 ### 0.2 [Interactive Matplotlib](./ch00/ch00-02.md)
 
