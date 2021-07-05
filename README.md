@@ -28,8 +28,8 @@
 ### 3.3 [Rate of Change and Behavior of Graphs](./ch03/ch03-03.md)
 ### 3.4 [Composition of Functions](./ch03/ch03-04.md)
 ### 3.5 [Transformation of Functions](./ch03/ch03-05.md)
-### 3.6 Absolute Value Functions
-### 3.7 Inverse Functions
+### 3.6 [Absolute Value Functions](./ch03/ch03-06.md)
+### 3.7 [Inverse Functions](./ch03/ch03-07.md)
 
 ## 4. Linear Functions
 ### 4.1 Linear Functions
