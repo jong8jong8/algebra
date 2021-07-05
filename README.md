@@ -32,7 +32,7 @@
 ### 3.7 [Inverse Functions](./ch03/ch03-07.md)
 
 ## 4. Linear Functions
-### 4.1 Linear Functions
+### 4.1 [Linear Functions](./ch04/ch04-01.md)
 ### 4.2 Modeling with Linear Functions
 ### 4.3 Fitting Linear Models to Data
 
