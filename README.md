@@ -38,7 +38,7 @@
 
 ## 5. Polynomial and Rational Functions
 ### 5.1 [Quadratic Functions](./ch05/ch05-01.md)
-### 5.2 Power Functions and Polynomial Functions
+### 5.2 [Power Functions and Polynomial Functions](./ch05/ch05-02.md)
 ### 5.3 Graphs of Polynomial Functions
 ### 5.4 Dividing Polynomials
 ### 5.5 Zeros of Polynomial Functions
