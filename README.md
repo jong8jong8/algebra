@@ -40,7 +40,7 @@
 ### 5.1 [Quadratic Functions](./ch05/ch05-01.md)
 ### 5.2 [Power Functions and Polynomial Functions](./ch05/ch05-02.md)
 ### 5.3 [Graphs of Polynomial Functions](./ch05/ch05-03.md)
-### 5.4 Dividing Polynomials
+### 5.4 [Dividing Polynomials](./ch05/ch05-04.md)
 ### 5.5 Zeros of Polynomial Functions
 ### 5.6 Rational Functions
 ### 5.7 Inverses and Radical Functions
