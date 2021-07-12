@@ -43,7 +43,7 @@
 ### 5.4 [Dividing Polynomials](./ch05/ch05-04.md)
 ### 5.5 [Zeros of Polynomial Functions](./ch05/ch05-05.md)
 ### 5.6 [Rational Functions](./ch05/ch05-06.md)
-### 5.7 Inverses and Radical Functions
+### 5.7 [Inverses and Radical Functions](./ch05/ch05-07.md)
 ### 5.8 Modeling Using Variation
 
 ## 6. Exponential and Logarithmic Functions
