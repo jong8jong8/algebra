@@ -44,10 +44,10 @@
 ### 5.5 [Zeros of Polynomial Functions](./ch05/ch05-05.md)
 ### 5.6 [Rational Functions](./ch05/ch05-06.md)
 ### 5.7 [Inverses and Radical Functions](./ch05/ch05-07.md)
-### 5.8 Modeling Using Variation
+### 5.8 [Modeling Using Variation](./ch05/ch05-08.md)
 
 ## 6. Exponential and Logarithmic Functions
-### 6.1 Exponential Functions
+### 6.1 [Exponential Functions](./ch06/ch06-01.md)
 ### 6.2 Graphs of Exponential Functions
 ### 6.3 Logarithmic Functions
 ### 6.4 Graphs of Logarithmic Functions
