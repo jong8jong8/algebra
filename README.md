@@ -48,8 +48,8 @@
 
 ## 6. Exponential and Logarithmic Functions
 ### 6.1 [Exponential Functions](./ch06/ch06-01.md)
-### 6.2 Graphs of Exponential Functions
-### 6.3 Logarithmic Functions
+### 6.2 [Graphs of Exponential Functions](./ch06/ch06-02.md)
+### 6.3 [Logarithmic Functions](./ch06/ch06-03.md)
 ### 6.4 Graphs of Logarithmic Functions
 ### 6.5 Logarithmic Properties
 ### 6.6 Exponential and Logarithmic Equations
