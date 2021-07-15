@@ -51,7 +51,7 @@
 ### 6.2 [Graphs of Exponential Functions](./ch06/ch06-02.md)
 ### 6.3 [Logarithmic Functions](./ch06/ch06-03.md)
 ### 6.4 [Graphs of Logarithmic Functions](./ch06/ch06-04.md)
-### 6.5 Logarithmic Properties
+### 6.5 [Logarithmic Properties](./ch06/ch06-05.md)
 ### 6.6 Exponential and Logarithmic Equations
 ### 6.7 Exponential and Logarithmic Models
 ### 6.8 Fitting Exponential Models to Data
