@@ -53,7 +53,7 @@
 ### 6.4 [Graphs of Logarithmic Functions](./ch06/ch06-04.md)
 ### 6.5 [Logarithmic Properties](./ch06/ch06-05.md)
 ### 6.6 [Exponential and Logarithmic Equations](./ch06/ch06-06.md)
-### 6.7 Exponential and Logarithmic Models
+### 6.7 [Exponential and Logarithmic Models](./ch06/ch06-07.md)
 ### 6.8 Fitting Exponential Models to Data
 
 ## 7. The Unit Circle: Sine and Cosine Functions
