@@ -54,7 +54,7 @@
 ### 6.5 [Logarithmic Properties](./ch06/ch06-05.md)
 ### 6.6 [Exponential and Logarithmic Equations](./ch06/ch06-06.md)
 ### 6.7 [Exponential and Logarithmic Models](./ch06/ch06-07.md)
-### 6.8 Fitting Exponential Models to Data
+### 6.8 [Fitting Exponential Models to Data](./ch06/ch06-08.md)
 
 ## 7. The Unit Circle: Sine and Cosine Functions
 ### 7.1 Angles
