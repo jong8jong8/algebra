@@ -57,7 +57,7 @@
 ### 6.8 [Fitting Exponential Models to Data](./ch06/ch06-08.md)
 
 ## 7. The Unit Circle: Sine and Cosine Functions
-### 7.1 Angles
+### 7.1 [Angles](./ch07/ch07-01.md)
 ### 7.2 Right Triangle Trigonometry
 ### 7.3 Unit Circle
 ### 7.4 The Other Trigonometric Functions
