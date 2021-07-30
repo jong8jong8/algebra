@@ -59,11 +59,11 @@
 ## 7. The Unit Circle: Sine and Cosine Functions
 ### 7.1 [Angles](./ch07/ch07-01.md)
 ### 7.2 [Right Triangle Trigonometry](./ch07/ch07-02.md)
-### 7.3 Unit Circle
-### 7.4 The Other Trigonometric Functions
+### 7.3 [Unit Circle](./ch07/ch07-03.md)
+### 7.4 [The Other Trigonometric Functions](./ch07/ch07-04.md)
 
 ## 8. Periodic Functions
-### 8.1 Graphs of the Sine and Cosine Functions
+### 8.1 [Graphs of the Sine and Cosine Functions](./ch08/ch08-01.md)
 ### 8.2 Graphs of Other Trigonometric Functions
 ### 8.3 Inverse Trigonometric Functions
 
