@@ -64,7 +64,7 @@
 
 ## 8. Periodic Functions
 ### 8.1 [Graphs of the Sine and Cosine Functions](./ch08/ch08-01.md)
-### 8.2 Graphs of Other Trigonometric Functions
+### 8.2 [Graphs of Other Trigonometric Functions](./ch08/ch08-02.md)
 ### 8.3 Inverse Trigonometric Functions
 
 ## 9. Trigonometric Identities and Equations
