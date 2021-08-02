@@ -40,7 +40,7 @@ $$
 2\sin\alpha\cos\beta = ? + ?
 $$
 $$
-\tan\alpha - \tan\beta = \dfrac{?}{?}
+\tan\alpha - \tan\beta = \dfrac{?}{\cos\alpha\cos\beta}
 $$
 $$
 \tan\theta = \dfrac{? - ?}{1 + m_1m_2}
