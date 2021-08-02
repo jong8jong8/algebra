@@ -71,7 +71,7 @@
 ### 9.1 [Solving Trigonometric Equations with Identities](./ch09/ch09-01.md) - [Test](./ch09/ch09-01-test.md)
 ### 9.2 [Sum and Difference Identities](./ch09/ch09-02.md) - [Test](./ch09/ch09-02-test.md)
 ### 9.3 [Double-Angle, Half-Angle, and Reduction Formulas](./ch09/ch09-03.md) - [Test](./ch09/ch09-03-test.md)
-### 9.4 [Sum-to-Product and Product-to-Sum Formulas](./ch09/ch09-04.md)
+### 9.4 [Sum-to-Product and Product-to-Sum Formulas](./ch09/ch09-04.md) - [Test](./ch09/ch09-04-test.md)
 ### 9.5 [Solving Trigonometric Equations](./ch09/ch09-05.md)
 
 ## 10. Further Applications of Trigonometry
