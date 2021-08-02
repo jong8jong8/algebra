@@ -19,23 +19,43 @@ $$
 \tan(\alpha - \beta) = \dfrac{? - ?}{1 + ?}
 $$
 $$
-\cos(\dfrac{\pi}{2} - \theta) = ?
+\cos\left(\dfrac{\pi}{2} - \theta\right) = ?
 $$
 $$
-\sin(\dfrac{\pi}{2} - \theta) = ?
+\sin\left(\dfrac{\pi}{2} - \theta\right) = ?
 $$
 $$
-\tan(\dfrac{\pi}{2} - \theta) = ?
+\tan\left(\dfrac{\pi}{2} - \theta\right) = ?
 $$
 $$
-\sec(\dfrac{\pi}{2} - \theta) = ?
+\sec\left(\dfrac{\pi}{2} - \theta\right) = ?
 $$
 $$
-\csc(\dfrac{\pi}{2} - \theta) = ?
+\csc\left(\dfrac{\pi}{2} - \theta\right) = ?
 $$
 $$
-\cot(\dfrac{\pi}{2} - \theta) = ?
+\cot\left(\dfrac{\pi}{2} - \theta\right) = ?
 $$
+
+$$
+\cos\left(\dfrac{\pi}{2} + \theta\right) = ?
+$$
+$$
+\sin\left(\dfrac{\pi}{2} + \theta\right) = ?
+$$
+$$
+\tan\left(\dfrac{\pi}{2} + \theta\right) = ?
+$$
+$$
+\sec\left(\dfrac{\pi}{2} + \theta\right) = ?
+$$
+$$
+\csc\left(\dfrac{\pi}{2} + \theta\right) = ?
+$$
+$$
+\cot\left(\dfrac{\pi}{2} + \theta\right) = ?
+$$
+
 $$
 2\sin\alpha\cos\beta = ? + ?
 $$
