@@ -17,10 +17,6 @@ $$
 $$
 \cot\theta = \dfrac{1}{?} = \dfrac{?}{\sin\theta}
 $$
-
-
-
-
 $$
 \sin^2 \theta + \cos^2\theta = ?
 $$
