@@ -25,5 +25,5 @@ $$
 \sin\left(\dfrac{\alpha}{2}\right) = \pm\sqrt{\dfrac{1 + ?}{2}}
 $$
 $$
-\tan\left(\dfrac{\alpha}{2}\right) = \pm\sqrt{\dfrac{1 - ?}{1+?} = \dfrac{?}{1 + ?}} = \dfrac{1 - ?}{?}
+\tan\left(\dfrac{\alpha}{2}\right) = \pm\sqrt{\dfrac{1 - ?}{1+?}} = \dfrac{?}{1 + ?} = \dfrac{1 - ?}{?}
 $$
