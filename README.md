@@ -65,14 +65,14 @@
 ## 8. Periodic Functions
 ### 8.1 [Graphs of the Sine and Cosine Functions](./ch08/ch08-01.md)
 ### 8.2 [Graphs of Other Trigonometric Functions](./ch08/ch08-02.md)
-### 8.3 Inverse Trigonometric Functions
+### 8.3 [Inverse Trigonometric Functions](./ch08/ch08-03.md)
 
 ## 9. Trigonometric Identities and Equations
-### 9.1 Solving Trigonometric Equations with Identities
-### 9.2 Sum and Difference Identities
-### 9.3 Double-Angle, Half-Angle, and Reduction Formulas
-### 9.4 Sum-to-Product and Product-to-Sum Formulas
-### 9.5 Solving Trigonometric Equations
+### 9.1 [Solving Trigonometric Equations with Identities](./ch09/ch09-01.md)
+### 9.2 [Sum and Difference Identities](./ch09/ch09-02.md)
+### 9.3 [Double-Angle, Half-Angle, and Reduction Formulas](./ch09/ch09-03.md)
+### 9.4 [Sum-to-Product and Product-to-Sum Formulas](./ch09/ch09-04.md)
+### 9.5 [Solving Trigonometric Equations](./ch09/ch09-05.md)
 
 ## 10. Further Applications of Trigonometry
 ### 10.1 Non-right Triangles: Law of Sines
