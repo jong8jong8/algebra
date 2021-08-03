@@ -75,7 +75,7 @@
 ### 9.5 [Solving Trigonometric Equations](./ch09/ch09-05.md)
 
 ## 10. Further Applications of Trigonometry
-### 10.1 Non-right Triangles: Law of Sines
+### 10.1 [Non-right Triangles: Law of Sines](./ch10/ch10-01.md)
 ### 10.2 Non-right Triangles: Law of Cosines
 ### 10.3 Polar Coordinates
 ### 10.4 Polar Coordinates: Graphs
