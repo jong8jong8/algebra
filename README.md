@@ -78,7 +78,7 @@
 ### 10.1 [Non-right Triangles: Law of Sines](./ch10/ch10-01.md)
 ### 10.2 [Non-right Triangles: Law of Cosines](./ch10/ch10-02.md)
 ### 10.3 [Polar Coordinates](./ch10/ch10-03.md)
-### 10.4 Polar Coordinates: Graphs
+### 10.4 [Polar Coordinates: Graphs](./ch10/ch10-04.md)
 ### 10.5 Polar Form of Complex Numbers
 ### 10.6 Parametric Equations
 ### 10.7 Parametric Equations: Graphs
