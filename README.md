@@ -81,8 +81,8 @@
 ### 10.4 [Polar Coordinates: Graphs](./ch10/ch10-04.md)
 ### 10.5 [Polar Form of Complex Numbers](./ch10/ch10-05.md)
 ### 10.6 [Parametric Equations](./ch10/ch10-06.md)
-### 10.7 Parametric Equations: Graphs
-### 10.8 Vectors
+### 10.7 [Parametric Equations: Graphs](./ch10/ch10-07.md)
+### 10.8 [Vectors](./ch10/ch10-08.md)
 
 ## 11. Systems of Equations and Inequalities
 ### 11.1 Systems of Linear Equations: Two Variables
