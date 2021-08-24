@@ -85,8 +85,8 @@
 ### 10.8 [Vectors](./ch10/ch10-08.md)
 
 ## 11. Systems of Equations and Inequalities
-### 11.1 Systems of Linear Equations: Two Variables
-### 11.2 Systems of Linear Equations: Three Variables
+### 11.1 [Systems of Linear Equations: Two Variables](./ch11/ch11-01.md)
+### 11.2 [Systems of Linear Equations: Three Variables](./ch11/ch11-02.md)
 ### 11.3 Systems of Nonlinear Equations and Inequalities: Two Variables
 ### 11.4 Partial Fractions
 ### 11.5 Matrices and Matrix Operations
