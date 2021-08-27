@@ -87,7 +87,7 @@
 ## 11. Systems of Equations and Inequalities
 ### 11.1 [Systems of Linear Equations: Two Variables](./ch11/ch11-01.md)
 ### 11.2 [Systems of Linear Equations: Three Variables](./ch11/ch11-02.md)
-### 11.3 Systems of Nonlinear Equations and Inequalities: Two Variables
+### 11.3 [Systems of Nonlinear Equations and Inequalities: Two Variables](./ch11/ch11-03.md)
 ### 11.4 Partial Fractions
 ### 11.5 Matrices and Matrix Operations
 ### 11.6 Solving Systems with Gaussian Elimination
