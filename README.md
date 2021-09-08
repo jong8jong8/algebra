@@ -1,6 +1,6 @@
 # [Algebra & Trigonometry](https://openstax.org/details/books/algebra-and-trigonometry)
 
-## 0. Environtment Setting
+## 0. Environment Setting
 - Install [GitHub Math Display](https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda/related?hl=en) to see math expressions in your chrome browser.
 ### 0.1 [Jupyter Lab Installation](./ch00/ch00-01.md)
 ### 0.2 [Interactive Matplotlib](./ch00/ch00-02.md)
