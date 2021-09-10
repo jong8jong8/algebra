@@ -92,7 +92,7 @@
 ### 11.5 [Matrices and Matrix Operations](./ch11/ch11-05.md)
 ### 11.6 [Solving Systems with Gaussian Elimination](./ch11/ch11-06.md)
 ### 11.7 [Solving Systems with Inverses](./ch11/ch11-07.md)
-### 11.8 Solving Systems with Cramer's Rule
+### 11.8 [Solving Systems with Cramer's Rule](./ch11/ch11-08.md)
 
 ## 12. Analytic Geometry
 ### 12.1 The Ellipse
