@@ -95,7 +95,7 @@
 ### 11.8 [Solving Systems with Cramer's Rule](./ch11/ch11-08.md)
 
 ## 12. Analytic Geometry
-### 12.1 The Ellipse
+### 12.1 [The Ellipse](./ch12/ch12-01.md)
 ### 12.2 The Hyperbola
 ### 12.3 The Parabola
 ### 12.4 Rotation of Axis
