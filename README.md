@@ -96,7 +96,7 @@
 
 ## 12. Analytic Geometry
 ### 12.1 [The Ellipse](./ch12/ch12-01.md)
-### 12.2 The Hyperbola
+### 12.2 [The Hyperbola](./ch12/ch12-02.md)
 ### 12.3 The Parabola
 ### 12.4 Rotation of Axis
 ### 12.5 Conic Sections in Polar Coordinates
