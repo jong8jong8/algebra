@@ -98,7 +98,7 @@
 ### 12.1 [The Ellipse](./ch12/ch12-01.md)
 ### 12.2 [The Hyperbola](./ch12/ch12-02.md)
 ### 12.3 [The Parabola](./ch12/ch12-03.md)
-### 12.4 Rotation of Axis
+### 12.4 [Rotation of Axis](./ch12/ch12-04.md)
 ### 12.5 Conic Sections in Polar Coordinates
 
 ## 13. Sequences, Probability and Counting Theory
