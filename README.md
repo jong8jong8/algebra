@@ -102,7 +102,7 @@
 ### 12.5 Conic Sections in Polar Coordinates
 
 ## 13. Sequences, Probability and Counting Theory
-### 13.1 Sequences and Their Notations
+### 13.1 [Sequences and Their Notations](./ch13/ch13-01.md)
 ### 13.2 Arithmetic Sequences
 ### 13.3 Geometric Sequences
 ### 13.4 Series and Their Notations
