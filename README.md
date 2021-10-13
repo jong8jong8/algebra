@@ -107,5 +107,5 @@
 ### 13.3 [Geometric Sequences](./ch13/ch13-03.md)
 ### 13.4 [Series and Their Notations](./ch13/ch13-04.md)
 ### 13.5 [Counting Principles](./ch13/ch13-05.md)
-### 13.6 Binomial Theorem
-### 13.7 Probability
+### 13.6 [Binomial Theorem](./ch13/ch13-06.md)
+### 13.7 [Probability](./ch13/ch13-07.md)
