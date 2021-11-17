@@ -19,6 +19,7 @@
 2021.10.27 (수) - 지한서: MP-L1: 19차: Ch.5.3 Try It #1 복습 (Grokking algorithm 1.3 까지) 
 2021.11.03 (수) - 지한서: MP-L1: 20차: Ch.5.4 Try It #3 까지 (Grokking algorithm 2.1 까지) 
 2021.11.10 (수) - 지한서: MP-L1: 21차: Ch.5.5 Try It #3 까지 (Grokking algorithm 2.2 array 까지) 
+2021.11.17 (수) - 지한서: MP-L1: 22차: Ch.5.6 Try It #3 까지 (Grokking algorithm 2.2 Linked List Exercise 2.1 까지) 
 
 
 2021.06.05 (토) - 임준서: MP-L1: 1차: Ch.1.1 Try It #5 까지
