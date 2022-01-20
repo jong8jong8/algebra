@@ -1,4 +1,4 @@
-# Algebra & Trigonometry [1st ed.](https://openstax.org/details/books/algebra-and-trigonometry) [2nd ed.](https://openstax.org/details/books/algebra-and-trigonometry-2e)
+# Algebra & Trigonometry ([1st ed.](https://openstax.org/details/books/algebra-and-trigonometry)) ([2nd ed.](https://openstax.org/details/books/algebra-and-trigonometry-2e))
 
 ## 0. Environment Setting
 - Install [GitHub Math Display](https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda/related?hl=en) to see math expressions in your chrome browser.
