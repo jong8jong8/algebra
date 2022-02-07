@@ -99,7 +99,7 @@
 ### 12.2 [The Hyperbola](./ch12/ch12-02.md)
 ### 12.3 [The Parabola](./ch12/ch12-03.md)
 ### 12.4 [Rotation of Axis](./ch12/ch12-04.md)
-### 12.5 Conic Sections in Polar Coordinates
+### 12.5 [Conic Sections in Polar Coordinates](./ch12/ch12-05.md)
 
 ## 13. Sequences, Probability and Counting Theory
 ### 13.1 [Sequences and Their Notations](./ch13/ch13-01.md)
