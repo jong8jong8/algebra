@@ -29,7 +29,7 @@
 2022.01.12 (수) - 지한서: MP-L1: 29차: Ch.6.5 Try It #14 까지 (CS-L2: 11차: Grokking algorithm 5.4 까지) 
 2022.01.19 (수) - 지한서: MP-L1: 30차: Ch.7.1 Try It #4 까지 (CS-L2: 12차: Grokking algorithm 6.3 까지) 
 2022.01.26 (수) - 지한서: MP-L1: 31차: Ch.7.2 Try It #6 까지 (CS-L2: 13차: Grokking algorithm 6.5 까지) 
-2022.02.?? (수) - 지한서: 수업차수: 33차 (MP-L1: Ch.11.2 Try It #2 까지, CS-L2: Grokking algorithm 5.4 까지)
+2022.02.?? (수) - 지한서: 수업차수: 33차 (MP-L1: Ch.?.? Try It #? 까지, CS-L2: Grokking algorithm ?.? 까지)
 
 
 2021.06.05 (토) - 임준서: MP-L1: 1차: Ch.1.1 Try It #5 까지
