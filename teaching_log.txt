@@ -1,5 +1,5 @@
 2022.02.09 (수) - 지한서: 수업차수: 32차 (MP-L1: Ch.7.4 까지, CS-L2: Grokking algorithm 7.5 까지)
-2022.02.16 (수) - 지한서: 수업차수: No count (Algebra: Ch.7.4 까지, Computational Thinking: Grokking algorithm 8.4 까지)
+2022.02.23 (수) - 지한서: 수업차수: 32차 (Algebra: Ch.8.3 까지, Computational Thinking: Grokking algorithm 8.4 까지)
 
 
 2022.02.05 (토) - 임준서: 수업차수: 34차 (MP-L1: Ch.11.6 Try It #2 까지, CS-L2: Grokking algorithm 6.3 까지)
