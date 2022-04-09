@@ -10,4 +10,5 @@
 2022.03.19 (토) - 임준서: 수업차수: 38차 (Algebra: Ch.13.7 까지, Computational Thinking: Grokking algorithm 9.1 까지)
 2022.03.26 (토) - 임준서: 수업차수: 39차 (Calculus: MIT 18.01.1x U0:6 까지, Computational Thinking: Grokking algorithm 9.2 까지)
 2022.04.02 (토) - 임준서: 수업차수: 40차 (Calculus: MIT 18.01.1x U0: Continuity 4 까지, Algorithm: MIT 6.042J U:1.1 까지)
+2022.04.09 (토) - 임준서: 수업차수: 41차 (Calculus: MIT 18.01.1x U0: Continuity 15 까지, Algorithm: MIT 6.042J U:1.2 까지)
 
