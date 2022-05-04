@@ -3,6 +3,8 @@
 2022.03.23 (수) - 지한서: 수업차수: 35차 (Algebra: Ch.9.2 까지, Computational Thinking: Grokking algorithm 9.4 까지)
 2022.03.30 (수) - 지한서: 수업차수: 36차 (Algebra: Ch.9.3 까지, Algorithm: MIT 6.042J U1 1.1 까지)
 2022.04.06 (수) - 지한서: 수업차수: 37차 (Algebra: Ch.9.3 복습, Algorithm: MIT 6.042J U1 1.2 까지)
+2022.05.03 (수) - 지한서: 수업차수: 38차 (Algebra: Ch.10.1 까지)
+
 
 
 2022.02.19 (토) - 임준서: 수업차수: 36차 (Algebra: Ch.13.1 까지, Computational Thinking: Grokking algorithm 7.5 까지)
