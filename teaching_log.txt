@@ -4,3 +4,4 @@
 
 2022.04.09 (토) - 임준서: 수업차수: 41차 (Calculus: MIT 18.01.1x U0: Continuity 15 까지, Algorithm: MIT 6.042J U:1.2 까지)
 2022.04.30 (토) - 임준서: 수업차수: 42차 (Calculus: MIT 18.01.1x U0: Limit of quotient 16 까지, Algorithm: MIT 6.042J U:1.3 까지)
+2022.05.21 (토) - 임준서: 수업차수: 43차 (Calculus: MIT 18.01.1x U0: 복습, 미적분 문제 p.18 까지)
