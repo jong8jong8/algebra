@@ -2,5 +2,6 @@
 2022.08.03 (수) - 지한서: 수업차수: 44차 (Algebra: Ch.11.3 까지)
 2022.08.10 (수) - 지한서: 수업차수: 45차 (Algebra: Ch.11.5 까지)
 2022.08.17 (수) - 지한서: 수업차수: 46차 (Algebra: Ch.11.7 까지)
+2022.08.24 (수) - 지한서: 수업차수: 47차 (Algebra: Ch.12.1 까지)
 
 Unit 1: The Derivative  The derivative as a function  13. Even more derivative
