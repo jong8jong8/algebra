@@ -5,5 +5,6 @@
 2022.08.24 (수) - 지한서: 수업차수: 47차 (Algebra: Ch.12.1 까지)
 2022.08.31 (수) - 지한서: 수업차수: 48차 (Calculus 1A: Unit 0 Section 6 까지)
 2022.10.05 (수) - 지한서: 수업차수: 49차 (인공지능수학: 1.1 까지)
+2022.10.12 (수) - 지한서: 수업차수: 50차 (인공지능수학: 1.2 까지)
 
 Unit 1: The Derivative  The derivative as a function  13. Even more derivative
